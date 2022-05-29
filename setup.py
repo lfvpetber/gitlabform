@@ -76,6 +76,9 @@ setup(
             "pytest-cov==3.0.0",
             "deepdiff==5.7.0",
         ],
+        "docs": [
+            "mkdocs",
+        ],
     },
     entry_points={
         "console_scripts": [
