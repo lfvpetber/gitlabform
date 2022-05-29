@@ -12,4 +12,4 @@
 GitLabForm is a specialized "configuration as a code" tool for GitLab projects, groups and more
 using hierarchical configuration written in YAML.
 
-Please see <a href="https://gdubicki.github.io/gitlabform/">the project site</a> for more information.
+Please see <a href="https://gdubicki.github.io/gitlabform">the project site</a> for more information.
